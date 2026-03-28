@@ -1,0 +1,21 @@
+Index, Description
+0, Anchor-Positive: Same Class | Anchor-Negative: Different Class
+1, Anchor-Positive: Same Class | Anchor-Negative: Different Class
+2, Anchor-Positive: Same Class | Anchor-Negative: Different Class
+3, Anchor-Positive: Same Class | Anchor-Negative: Different Class
+4, Anchor-Positive: Same Class | Anchor-Negative: Different Class
+5, Anchor-Positive: Same Class | Anchor-Negative: Different Class
+6, Anchor-Positive: Same Class | Anchor-Negative: Different Class
+7, Anchor-Positive: Same Class | Anchor-Negative: Different Class
+8, Anchor-Positive: Same Class | Anchor-Negative: Different Class
+9, Anchor-Positive: Same Class | Anchor-Negative: Different Class
+10, Anchor-Positive: Same Class | Anchor-Negative: Different Class
+11, Anchor-Positive: Same Class | Anchor-Negative: Different Class
+12, Anchor-Positive: Same Class | Anchor-Negative: Different Class
+13, Anchor-Positive: Same Class | Anchor-Negative: Different Class
+14, Anchor-Positive: Same Class | Anchor-Negative: Different Class
+15, Anchor-Positive: Same Class | Anchor-Negative: Different Class
+16, Anchor-Positive: Same Class | Anchor-Negative: Different Class
+17, Anchor-Positive: Same Class | Anchor-Negative: Different Class
+18, Anchor-Positive: Same Class | Anchor-Negative: Different Class
+19, Anchor-Positive: Same Class | Anchor-Negative: Different Class
